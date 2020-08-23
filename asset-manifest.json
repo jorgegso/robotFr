@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/jorgegso/robofraindredux/static/css/main.449ecb88.chunk.css",
+    "main.js": "/jorgegso/robofraindredux/static/js/main.ba0e2b69.chunk.js",
+    "main.js.map": "/jorgegso/robofraindredux/static/js/main.ba0e2b69.chunk.js.map",
+    "runtime-main.js": "/jorgegso/robofraindredux/static/js/runtime-main.d0423d14.js",
+    "runtime-main.js.map": "/jorgegso/robofraindredux/static/js/runtime-main.d0423d14.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/jorgegso/robofraindredux/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e21a4731.chunk.js": "/jorgegso/robofraindredux/static/js/2.e21a4731.chunk.js",
+    "static/js/2.e21a4731.chunk.js.map": "/jorgegso/robofraindredux/static/js/2.e21a4731.chunk.js.map",
+    "index.html": "/jorgegso/robofraindredux/index.html",
+    "precache-manifest.6a25e0ac715ce43a0842059200898217.js": "/jorgegso/robofraindredux/precache-manifest.6a25e0ac715ce43a0842059200898217.js",
+    "service-worker.js": "/jorgegso/robofraindredux/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/jorgegso/robofraindredux/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.449ecb88.chunk.css.map": "/jorgegso/robofraindredux/static/css/main.449ecb88.chunk.css.map",
+    "static/js/2.e21a4731.chunk.js.LICENSE.txt": "/jorgegso/robofraindredux/static/js/2.e21a4731.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/jorgegso/robofraindredux/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d0423d14.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.e21a4731.chunk.js",
+    "static/css/main.449ecb88.chunk.css",
+    "static/js/main.ba0e2b69.chunk.js"
+  ]
+}
